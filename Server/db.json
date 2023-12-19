@@ -1,0 +1,751 @@
+{
+  "login": [
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "email": "maddikeramahesh@gmail.com",
+      "password": "mahe@@123MAHE",
+      "id": 6
+    }
+  ],
+  "signup": [
+    {
+      "first name": "Maddikera ",
+      "last name": "Mahesh",
+      "mobile number": "8519977956",
+      "email": "maddikeramahesh@gmail.com",
+      "password": "mahe@@123MAHE",
+      "re-enter password": "name='password' onChange={hand}",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "first name": "Maddikera",
+      "last name": "Mahesh",
+      "mobile number": "8519977956",
+      "email": "maddikeramahesh@gmail.com",
+      "password": "mahe@@123MAHE",
+      "re-enter password": "ERROR The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.     at assertValidProps (http://localhost:3001/static/js/bundle.js:17427:15)     at setInitialProperties (http://localhost:3001/static/js/bundle.js:23522:7)     at finalizeInitialChildren (http://localhost:3001/static/js/bundle.js:24403:7)     at completeWork (http://localhost:3001/static/js/bundle.js:34015:21)     at completeUnitOfWork (http://localhost:3001/static/js/bundle.js:37768:20)     at performUnitOfWork (http://localhost:3001/static/js/bundle.js:37744:9)     at workLoopSync (http://localhost:3001/static/js/bundle.js:37658:9)     at renderRootSync (http://localhost:3001/static/js/bundle.js:37631:11)     at recoverFromConcurrentError (http://localhost:3001/static/js/bundle.js:37123:24)     at performConcurrentWorkOnRoot (http://localhost:3001/static/js/bundle.js:37036:26)",
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ],
+  "home": [
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
+      "name": " vivo T2x 5G (Aurora Gold, 128 GB)  (8 GB RAM)",
+      "price": " ₹14,999",
+      "quantity": " ",
+      "id": 1
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/b/i/-original-imagvyp8pjedpxsj.jpeg?q=70",
+      "name": " REDMI 12C (Matte Black, 64 GB)  (4 GB RAM)",
+      "price": " ₹7,999",
+      "quantity": " ",
+      "id": 2
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70",
+      "name": " OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)  (6 GB RAM)",
+      "price": " ₹17,114",
+      "quantity": " ",
+      "id": 3
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/v/0/c51-mzb0dxkin-poco-original-imagzdpycgrcdc8z.jpeg?q=70",
+      "name": " POCO C51 (Royal Blue, 64 GB)  (4 GB RAM)",
+      "price": " ₹5,999",
+      "quantity": " ",
+      "id": 4
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/p/0/p/-original-imagp6skfbnypq5g.jpeg?q=70",
+      "name": " Noise Buds VS102 with 50 Hrs Playtime",
+      "price": " ₹1,299",
+      "quantity": " ",
+      "id": 5
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70",
+      "name": " boAt Airdopes 161 with 40 Hours Playback",
+      "price": " ₹899",
+      "quantity": " ",
+      "id": 6
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70",
+      "name": " OPPO Enco Buds 2 with 28 hours Battery life ",
+      "price": " ₹1,799",
+      "quantity": " ",
+      "id": 7
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70",
+      "name": " realme Buds T300 with 12.4mm Driver",
+      "price": " ₹2,099",
+      "quantity": " ",
+      "id": 8
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/7/0/w/3-gl-225-combo-of-3-black-blue-red-hala-girls-original-imagp4gmu4h8ggkq.jpeg?q=70",
+      "name": " Lifestyle Black Dial Silicon Strap Electronic Digital Watch",
+      "price": " ₹69",
+      "quantity": " ",
+      "id": 9
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/t/f/u/1-7106-black-hmtr-men-original-imagvsgcgznejj9p.jpeg?q=70",
+      "name": " BLACK DAY AND DATE WORKING Analog Watch",
+      "price": " ₹283",
+      "quantity": " ",
+      "id": 10
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l1l1rww0/watch/5/w/u/1-black-dial-digital-watch-for-boys-black-sports-watch-men-original-imagd4yzszbgba39.jpeg?q=70",
+      "name": " Unisex Waterproof Sport Digital Watch For Men ",
+      "price": " ₹218",
+      "quantity": " ",
+      "id": 11
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/c/p/h/1-m4-band-sk858-daniel-radcliffe-boys-girls-original-imagqjqvufpgz3kn.jpeg?q=70",
+      "name": " Digital Watch - For Boys & Girls M4 Band SK858",
+      "price": " ₹79",
+      "quantity": " ",
+      "id": 12
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kfcv6vk0/power-bank/r/f/5/power-bank-20000-plm18zm-mi-original-imafvtc7x9zgrzbz.jpeg?q=70",
+      "name": " Mi 3i 20000 mAh Power Bank (Fast Charging, 18W) ",
+      "price": " ₹2,149",
+      "quantity": " ",
+      "id": 13
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-power-bank/k/c/m/powerlit-xl-20000-ambrane-original-imaggusn3dwbfjnz.jpeg?q=70",
+      "name": " Ambrane 20000 mAh Power Bank",
+      "price": " ₹1,999",
+      "quantity": " ",
+      "id": 14
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/power-bank/f/a/i/power-bank-dx03-10000-mah-dx03-10k-10000-callmate-original-imagzchkypjxwxh5.jpeg?q=70",
+      "name": " Callmate 10000 mAh Power Bank",
+      "price": " ₹799",
+      "quantity": " ",
+      "id": 15
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/power-bank/b/h/6/blpb1210-22-5w-pd-12000mah-portable-power-bank-fast-charging-3-original-imagtrjqczhzwg6e.jpeg?q=70",
+      "name": " BELL 12000 mAh Power Bank",
+      "price": " ₹1,999",
+      "quantity": " ",
+      "id": 16
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/k/s/1/-original-imagtwb7mazunzgd.jpeg?q=70",
+      "name": "Boult Audio ProBass EQCharge with ZEN Mode ENC",
+      "price": " ₹899",
+      "quantity": " ",
+      "id": 17
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/i/x/x/wh-ch510-sony-original-imagz5r5qqrsfteq.jpeg?q=70",
+      "name": " SONY WH-CH520 with 50 Hrs Playtime, DSEE Upscale",
+      "price": " ₹4,490",
+      "quantity": " ",
+      "id": 18
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/n/w/deep-bass-wired-headset-with-mic-hd-sound-with-deep-bass-ultiads-original-imagkqz7g8huvrty.jpeg?q=70",
+      "name": " ultiads Deep Bass Wired Headset with Mic",
+      "price": " ₹319",
+      "quantity": " ",
+      "id": 19
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/j/c/g/premium-tws-m90-with-powerbank-gaming-earbud-wireless-bluetooth-original-imagmbdqpdjeabrx.jpeg?q=70",
+      "name": " FUTURESTARRKK K3 M90 Pro True Wireless Bluetooth",
+      "price": " ₹1,089",
+      "quantity": " ",
+      "id": 20
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kgqvlow0/book/1/5/7/meditations-original-imafwwgwgg4h7gyc.jpeg?q=70",
+      "name": " Meditations  (English, Hardcover, MARCUS AURELIUS)",
+      "price": " ₹141",
+      "quantity": " ",
+      "id": 21
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/book/3/4/v/thoughts-to-inspire-in-english-swami-vivekanand-paperback-original-imafaqvn8krkj4cg.jpeg?q=70",
+      "name": " Thoughts to Inspire  (English, Hardcover, Vivekanand Swami)",
+      "price": " ₹125",
+      "quantity": " ",
+      "id": 22
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kqpj4i80/book/k/q/w/public-speaking-for-beginners-original-imag4nz75aa9qehm.jpeg?q=70",
+      "name": " Public Speaking for Beginners  (English, Paperback, Wills Cameron)",
+      "price": " ₹1,565",
+      "quantity": " ",
+      "id": 23
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/jx9aefk0/book/1/1/5/paths-of-fear-original-imafg97hg8setggt.jpeg?q=70",
+      "name": " Paths of Fear  (English, Paperback, unknown)",
+      "price": " ₹399",
+      "quantity": " ",
+      "id": 24
+    }
+  ],
+  "men": [
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/x/l/d/s-st28-vebnor-original-imagq6aqgh2hzv22.jpeg?q=70",
+      "name": " Men Regular Fit Checkered Spread Collar Casual Shirt",
+      "price": " 299",
+      "quantity": " S, M, L, XL",
+      "id": 1
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/7/x/v/xxl-st28-vebnor-original-imagq6a533khqhmq.jpeg?q=70",
+      "name": " Men Slim Fit Solid Spread Collar Formal Shirt",
+      "price": " ₹399",
+      "quantity": " S, M, L, XL",
+      "id": 2
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/n/s/b/m-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imaghp7fgyhbpnry.jpeg?q=70",
+      "name": " Men Slim Fit Solid Spread Collar Formal Shirt",
+      "price": " ₹369",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 3
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/o/z/o/l-200-combraided-original-imagshgzgcap9w4d.jpeg?q=70",
+      "name": " Men Slim Fit Striped Slim Collar Casual Shir",
+      "price": " ₹289",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 4
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/3/j/v/xxl-st10-vebnor-original-imagnvrqgv7e5crg.jpeg?q=70",
+      "name": " Men Regular Fit Dyed/Ombre Spread Collar Casual Shirt",
+      "price": " ₹289",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 5
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/n/j/h/m-st10-vebnor-original-imagqtm39n27zgds.jpeg?q=70",
+      "name": " Men Regular Fit Dyed/Ombre Spread Collar Casual Shirt",
+      "price": " ₹289",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 6
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l4n2oi80/kurta/h/x/x/s-dimmn31-dimmy-original-imagfhquukqc4eg8.jpeg?q=70",
+      "name": " Men Solid Cotton Blend Straight Kurta  (Purple)",
+      "price": " ₹424",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 7
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/x/c/8/l-bmrhenful-z14-blive-original-imagrs5yczgyaeuj.jpeg?q=70",
+      "name": " Men Solid Henley Neck Cotton Blend Maroon T-Shirt",
+      "price": " ₹299",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 8
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/l/t/l/m-6017-triptee-original-imaghhsjz78ggtsf.jpeg?q=70",
+      "name": " Men Solid Sports Jacket",
+      "price": " ₹369",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 9
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/h/o/e/m-1-no-multicolor-part-3-azmani-original-imaguubfzcf8ne7m.jpeg?q=70",
+      "name": " Men Colorblock Casual Jacket",
+      "price": " ₹798",
+      "quantity": " S, M, L, XL, XXL",
+      "id": 10
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kffq2kw0/jacket/g/y/y/l-11970732-roadster-original-imafvwffrc9rzrz5.jpeg?q=70",
+      "name": " Men Solid Bomber Jacket",
+      "price": " ₹650",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 11
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/x/h/7/l-12645812-here-now-original-imafyurkgwqgh9cp.jpeg?q=70",
+      "name": " Men Solid Bomber Jacket",
+      "price": " ₹1,292",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 12
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l09w8sw0/t-shirt/k/p/u/l-tst-ab-36-54-ftx-original-imagc36pmyvg38sb.jpeg?q=70",
+      "name": " Pack of 4 Men Solid Round Neck Polyester Multicolor T-Shirt",
+      "price": " ₹439",
+      "quantity": " S, M, L, XL, XXL",
+      "id": 13
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/krjjde80/t-shirt/7/2/g/l-710-9-ftx-original-imag5b2k5wrnp6kn.jpeg?q=70",
+      "name": " Men Sporty Round Neck Polyester Orange T-Shirt",
+      "price": " ₹100",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 14
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/g/r/p/s-tsrt-catalog-03-makemode-original-imagjugggfzyvg8b.jpeg?q=70",
+      "name": " Men Printed Round Neck Polyester Grey T-Shirt",
+      "price": " ₹129",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 15
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l09w8sw0/t-shirt/v/l/f/xl-bmrgyrn-z12-blive-original-imagc3pjxhbqwgh5.jpeg?q=70",
+      "name": " Men Striped Round Neck Cotton Blend Maroon, Grey T-Shirt",
+      "price": " ₹149",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 16
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/t/y/z/28-ud0310-united-denim-original-imaghztygtrk8fyy.jpeg?q=70",
+      "name": " Men Slim Mid Rise Grey Jeans",
+      "price": " ₹269",
+      "quantity": " 28, 30, 32, 34, 36",
+      "id": 17
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/z/h/s/42-r1301-rasso-original-imagguqhp85bgbvy.jpeg?q=70",
+      "name": " Men Regular Mid Rise Light Blue Jeans",
+      "price": " ₹399",
+      "quantity": " 28, 30, 32, 34, 36",
+      "id": 18
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/w/v/e/-original-imagj4qqzenj3hmh.jpeg?q=70",
+      "name": " Men Slim Mid Rise Grey Jeans",
+      "price": " ₹648",
+      "quantity": " 28, 30, 32, 34, 36",
+      "id": 19
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kwtkxow0/jean/p/c/c/34-ud0060-united-denim-original-imag9ewej2ha5w3c.jpeg?q=70",
+      "name": " Men Slim Low Rise Light Blue Jeans",
+      "price": " ₹269",
+      "quantity": "28, 30, 32, 34, 36",
+      "id": 21
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/b/a/q/xxl-men-s-outdoor-quick-dry-lightweight-sports-shorts-zipper-original-imagncwxubuzyyc6.jpeg?q=70",
+      "name": " Solid Men Blue Running Shorts",
+      "price": " ₹363",
+      "quantity": " S, M, L, XL, XXL",
+      "id": 22
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/ktizdzk0/short/k/6/o/4xl-pic-2044-indiclub-original-imag6uxwcbgft3hj.jpeg?q=70",
+      "name": " Solid Men Black Regular Shorts, Sports Shorts, Beach Shorts",
+      "price": " ₹179",
+      "quantity": "  S, M, L, XL, XXL",
+      "id": 23
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/f/u/z/s-lowprice-pk2-006-greyblack-cross-spirit-original-imagrcvqmzgnzymv.jpeg?q=70",
+      "name": " Pack of 2 Solid Men Grey, Black Sports Shorts",
+      "price": " ₹489",
+      "quantity": " S, M, L, XL, XXL",
+      "id": 24
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kc9eufk0/short/s/e/u/xxl-g-mshort-navy-an-mil-2pcs-gyrfalcon-original-imaftfkzzxh7tj7g.jpeg?q=70",
+      "name": " Pack of 2 Self Design Men Dark Blue, Grey Regular Shorts",
+      "price": " ₹339",
+      "quantity": " S, M, L, XL, XXL",
+      "id": 25
+    }
+  ],
+  "women": [
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/i/g/a/free-nt87-panchaamrit-unstitched-original-imagt5y5tw2ggvqk.jpeg?q=70",
+      "name": " Woven Assam Silk Silk Blend Saree  (Red, Orange)",
+      "price": " ₹749",
+      "quantity": " ",
+      "id": 1
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/krs40i80/sari/b/p/l/free-lycra-tzo-b-bella-creation-unstitched-original-imag5hwkqdjzngvc.jpeg?q=70",
+      "name": " Embroidered Bollywood Net, Art Silk Saree  (Multicolor, Blue, Grey)",
+      "price": " ₹689",
+      "quantity": " ",
+      "id": 2
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/9/i/u/free-ls-redbutta-purple-benaifer-fashion-unstitched-original-imagkkyjguphkj8b.jpeg?q=70",
+      "name": " Woven Kanjivaram Pure Silk, Art Silk Saree  (Purple)",
+      "price": " ₹499",
+      "quantity": " ",
+      "id": 3
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/f/v/5/-original-imagvhcsuvhfznyh.jpeg?q=70",
+      "name": " Self Design Bollywood Cotton Blend Saree  (Green)",
+      "price": " ₹274",
+      "quantity": " ",
+      "id": 4
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kf1fo280-0/kurta/2/n/1/s-8404mj-black-libas-original-imafvh72zyn8vxjd.jpeg?q=70",
+      "name": " Women Embroidered Viscose Rayon A-line Kurta  (Black)",
+      "price": " ₹857",
+      "quantity": " ",
+      "id": 6
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/c/w/g/l-sevenbottom-rk-costing-original-imagvta7xyfzzwhd.jpeg?q=70",
+      "name": " Pack of 2 Women Solid Viscose Rayon Straight Kurta  (Blue, Yellow)",
+      "price": " ₹496",
+      "quantity": " ",
+      "id": 7
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kydb3ww0/kurta/r/o/y/xs-beel-01-lamba-creations-original-imagam87z5rzz7qz.jpeg?q=70",
+      "name": " Women Printed Viscose Rayon Straight Kurta  (Black)",
+      "price": " ₹249",
+      "quantity": " ",
+      "id": 8
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/6/o/u/l-kurta-flared-037-dhakre-fashion-original-imagrt8ekkcnsnth.jpeg?q=70",
+      "name": " Women Floral Print Viscose Rayon Anarkali Kurta  (Purple)",
+      "price": " ₹399",
+      "quantity": " ",
+      "id": 9
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/jyrl4sw0/gown/e/b/t/na-free-nena-firozi-gown101-krishna-na-original-imafhmqqv8epffdg.jpeg?q=70",
+      "name": " Semi Stitched Net/Lace Kurta Fabric Embroidered",
+      "price": " ₹391",
+      "quantity": " ",
+      "id": 10
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/fabric/a/o/q/yes-2-m-unstitched-2-10m-1175d1274j-siril-original-imagm2cugtpwnkjh.jpeg?q=70",
+      "name": " Unstitched Cotton Blend Salwar Suit Material Floral Print, Printed",
+      "price": " ₹379",
+      "quantity": " ",
+      "id": 11
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l3hmwsw0/fabric/w/h/z/yes-na-semi-stitched-2-2-m-minidrees-mohnish-fashion-original-imagehewvj2awknu.jpeg?q=70",
+      "name": " Semi Stitched Net/Lace Salwar Suit Material Embroidered",
+      "price": " ₹349",
+      "quantity": " ",
+      "id": 12
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/fabric/w/g/f/no-2-5-m-unstitched-na-mirror-vivan-fab-original-imagkjxvtfraguzp.jpeg?q=70",
+      "name": " Unstitched Georgette Kurta & Churidar Material",
+      "price": " ₹479",
+      "quantity": " ",
+      "id": 13
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/b/7/o/free-sleeveless-076-nj-xenilla-original-imagr3pghfvzcerj.jpeg?q=70",
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Blue)",
+      "price": " ₹1,499",
+      "quantity": " ",
+      "id": 14
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/m/q/7/free-half-sleeve-pochampalli-pattu-fabcartz-original-imaggvyj73udeg3h.jpeg?q=70",
+      "name": " Embroidered Semi Stitched Lehenga Choli  (Dark Green)",
+      "price": " ₹792",
+      "quantity": " ",
+      "id": 15
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/ks0onm80/lehenga-choli/0/b/b/free-half-sleeve-lehenga-cholis-swastik-purvaja-original-imag5zk6qz23ehbw.jpeg?q=70",
+      "name": " Printed Semi Stitched Lehenga Choli  (Green)",
+      "price": " ₹764",
+      "quantity": " ",
+      "id": 16
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/c/k/8/free-short-sleeve-big-pallavi-l-orange-print-trivety-original-imagqype6tgscrdb.jpeg?q=70",
+      "name": " Printed Semi Stitched Lehenga Choli  (Light Blue)",
+      "price": " ₹469",
+      "quantity": " ",
+      "id": 17
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kl2mljk0/blouse/3/5/q/36-lfh-rn-black-lyneth-original-imagy9wrzekjf5ak.jpeg?q=70",
+      "name": " Round Neck Women Blouse",
+      "price": " ₹222",
+      "quantity": " ",
+      "id": 18
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/0/1/n/34-zigzag-red-fabmint-original-imagphyruc3cjebw.jpeg?q=70",
+      "name": " Round Neck Women Blouse",
+      "price": " ₹475",
+      "quantity": " ",
+      "id": 19
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/z/k/f/38-hc-8004-green-himrise-original-imaggmysgfhs5pgv.jpeg?q=70",
+      "name": " Band collar Women Blouse",
+      "price": " ₹264",
+      "quantity": " ",
+      "id": 20
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/blouse/x/o/a/30-deltin-hub-round-neck-dobby-cotton-lycra-stretchable-full-original-imagra5uxfk8yzgz.jpeg?q=70",
+      "name": " Round Neck Women Blouse",
+      "price": " ₹299",
+      "quantity": " ",
+      "id": 21
+    }
+  ],
+  "kids": [
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kbtp0280/kids-dress/g/r/v/4-5-years-yvr0065-yayavar-original-imaft3dzhguf74fh.jpeg?q=70",
+      "name": " Girls Calf Length Party Dress  (Pink, Sleeveless)",
+      "price": " ₹341",
+      "quantity": " ",
+      "id": 1
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/i/u/l/8-9-years-jahir-micky-sim-fab-original-imagnd77yfyzhr5q.jpeg?q=70",
+      "name": " Mickey Girls Midi/Knee Length Casual Dress  (Pink, Short Sleeve)",
+      "price": " ₹298",
+      "quantity": " ",
+      "id": 2
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/g/n/q/3-4-years-dezine-pink-black-flower-gown-kaarigari-original-imagb9g9has8qexz-bb.jpeg?q=70",
+      "name": " Girls Maxi/Full Length Party Dress  (Pink, 3/4 Sleeve)",
+      "price": " ₹279",
+      "quantity": " ",
+      "id": 3
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l1pc3gw0/kids-dress/9/n/2/4-5-years-dm369-star-case-original-imagd7hz9yrxynyr.jpeg?q=70",
+      "name": " Girls Calf Length Festive/Wedding Dress  (Maroon, Sleeveless)",
+      "price": " ₹357",
+      "quantity": " ",
+      "id": 4
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-ethnic-set/v/l/a/2-3-years-embitting-2038-nfc-creation-original-imagrmabbvx7yjvt.jpeg?q=70",
+      "name": " Boys Festive & Party, Wedding Kurta and Patiala Set  (Beige Pack of 1)",
+      "price": " ₹488",
+      "quantity": " ",
+      "id": 5
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-kids-ethnic-set/w/d/s/1-2-years-blue-sher-rrfashion-original-imagnfn2sgfvxfzg.jpeg?q=70",
+      "name": " Boys Festive & Party Kurta and Pyjama Set  (Blue Pack of 1)",
+      "price": " ₹340",
+      "quantity": " ",
+      "id": 6
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-ethnic-set/k/g/g/2-3-years-7059-pista-aj-dezines-original-imagqhug5xkdmg3d.jpeg?q=70",
+      "name": " Boys Festive & Party Kurta, Waistcoat and Pyjama Set ",
+      "price": " ₹1,259",
+      "quantity": " ",
+      "id": 7
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-ethnic-set/a/m/c/13-14-years-7001-grey-aj-dezines-original-imaeh5keygm9grah-bb.jpeg?q=70",
+      "name": " Boys Festive & Party, Wedding Sherwani and Churidar Set  ",
+      "price": " ₹839",
+      "quantity": " ",
+      "id": 8
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-kids-dress/p/8/x/9-12-months-chaina-frock-mullick-the-designer-original-imag73gjjmkgceqd.jpeg?q=70",
+      "name": " Girls Midi/Knee Length Casual Dress  (Yellow, Sleeveless)",
+      "price": " ₹219",
+      "quantity": " ",
+      "id": 9
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/s/c/f/8-9-years-fe2644ppl-wishkaro-original-imagab5yv8bnueka-bb.jpeg?q=70",
+      "name": " Girls Midi/Knee Length Party Dress  (Purple, Sleeveless)",
+      "price": " ₹499",
+      "quantity": " ",
+      "id": 10
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l367dzk0/kids-dress/a/c/v/18-24-months-safedi-ki-chamkar-frock-with-hairband-maryum-original-imagecgzf7kfabnc.jpeg?q=70",
+      "name": " Girls Midi/Knee Length Festive/Wedding Dress  (White, Sleeveless)",
+      "price": " ₹308",
+      "quantity": " ",
+      "id": 11
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/v/o/w/7-8-years-d-w-045-flora-original-imagtzuurqjzrvz8.jpeg?q=70",
+      "name": " Girls Midi/Knee Length Casual Dress  (Black, Half Sleeve)",
+      "price": " ₹650",
+      "quantity": " ",
+      "id": 12
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-short/c/z/v/13-14-years-ji-t2fshort-13-14-fasla-original-imag3d8pzucwza7t-bb.jpeg?q=70",
+      "name": " Short For Boys Casual Printed, Solid Pure Cotton  ",
+      "price": " ₹226",
+      "quantity": " ",
+      "id": 13
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l4yi7bk0/kids-track-pant/g/6/a/14-15-years-st-500-elastic-tp-mel-red-navy-no-1-san-tee-original-imagfqgzcvzbhyay.jpeg?q=70",
+      "name": " Track Pant For Boys & Girls  (Multicolor, Pack of 3)",
+      "price": " ₹449",
+      "quantity": " ",
+      "id": 14
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kulk9zk0/kid-costume-wear/r/z/b/3-4-years-spiderman-costume-for-2-3-years-kids-fany-original-imag7zvpjkcnu5eg.jpeg?q=70",
+      "name": " Fany Spiderman Kids Costume Wear",
+      "price": " ₹269",
+      "quantity": " ",
+      "id": 15
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kp2y2kw0/kid-costume-wear/q/s/5/5-5-6-years-army63-radhakrishna-textile-market-6-original-imag3efhznyptcyw.jpeg?q=70",
+      "name": " S Fazluka Army Kids Costume Wear",
+      "price": " ₹283",
+      "quantity": " ",
+      "id": 16
+    }
+  ],
+  "fashion": [
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kwb07m80/kids-dress/z/v/x/10-11-years-rks01-r-k-fashion-original-imag9yz7htzq5jpn.jpeg?q=70",
+      "name": " UD FASHION Pari Dress Kids Costume Wear",
+      "price": " ₹371",
+      "quantity": " ",
+      "id": 1
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kvpklu80/kids-cap/s/2/y/5-6-years-kids-winter-beanie-mse-fashion-original-imag8jveny5gxwmz.jpeg?q=70",
+      "name": " Kids Cap  (Black)",
+      "price": " ₹149",
+      "quantity": " ",
+      "id": 2
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/s/h/w/xxl-2384-s-hiphopfashion-original-imagmnhnjgqcyja5.jpeg?q=70",
+      "name": " Men Full Sleeve Printed Sweatshirt",
+      "price": " ₹303",
+      "quantity": " ",
+      "id": 3
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l0y6qa80/kids-lehenga-choli/v/l/u/4-5-years-gajra-the-fashion-prime-original-imagcmgezfqsknry.jpeg?q=70",
+      "name": " Girls Lehenga Choli Ethnic Wear Embroidered Lehenga",
+      "price": " ₹273",
+      "quantity": " ",
+      "id": 4
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-t-shirt/l/l/e/xl-smt-colorleaf-navy-smartees-original-imagphuehu4dtstd.jpeg?q=70",
+      "name": " Men Printed Round Neck Cotton Blend Dark Blue T-Shirt",
+      "price": " ₹99",
+      "quantity": " ",
+      "id": 5
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=70",
+      "name": " Men Colorblock Hooded Neck Cotton Blend Black, Red T-Shirt",
+      "price": " ₹199",
+      "quantity": " ",
+      "id": 6
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kzn17680/shirt/0/q/o/l-logo-shirt-infinity-choice-original-imagbhwczbphzk5f.jpeg?q=70",
+      "name": " Men Regular Fit Solid Spread Collar Casual Shirt",
+      "price": " ₹389",
+      "quantity": " ",
+      "id": 7
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/q/0/d/5-6-years-ck20230888-cutiekins-original-imaghrehk3fyfchk.jpeg?q=70",
+      "name": " Girls Casual Top Trouser  (Maroon)",
+      "price": " ₹661",
+      "quantity": " ",
+      "id": 8
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/w/t/6-brd-406-brd-466-6-birde-grey-orange-green-original-imag5ccyzzwrwwfh.jpeg?q=70",
+      "name": " Premium Sports Shoes for Men Walking Shoes For Men  (Grey)",
+      "price": " ₹270",
+      "quantity": " ",
+      "id": 9
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l2m78280/shoe/q/h/z/7-mrj1852-7-aadi-black-original-imagdwgudezandfs.jpeg?q=70",
+      "name": " Synthetic Leather For Men  (Black)",
+      "price": " ₹356",
+      "quantity": " ",
+      "id": 10
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/y/p/9-bfs-342-09-9-big-fox-brown-original-imagmz7frcjphzkz.jpeg?q=70",
+      "name": " Men's Fighter 555 Boots For Men  (Brown)",
+      "price": " ₹685",
+      "quantity": " ",
+      "id": 11
+    },
+    {
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/b/w/y/-original-imagr7vhn7hjj3ss.jpeg?q=70",
+      "name": " CAMP-HUSTUN Running Shoes For Men  (Yellow)",
+      "price": " ₹1,439",
+      "quantity": " ",
+      "id": 12
+    }
+  ]
+}

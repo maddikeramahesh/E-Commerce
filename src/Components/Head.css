@@ -1,0 +1,74 @@
+.head {
+   display: flex;
+   justify-content: space-around;
+   flex-direction: row;
+   background-color: #fff8e7;
+   padding-bottom:18px ;
+   margin-right: 0px;
+  
+}
+.na {
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    /* order: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px; 
+    background: #FF4141;  */
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    /* text-decoration: underline;
+    text-decoration-color: red; */
+    border-bottom: 3px solid red;
+    padding: 3px;
+    text-decoration-thickness: 3px;
+}
+.logo{
+    border-radius: 80%;
+    top: 30px;
+    left: 30px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: #fff8e7;
+}
+.log:hover{
+   background-color:aqua;
+   color: black;
+}
+/* ///menu content */
+.button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  /* Style for the dropdown container */
+  .dropdown-container {
+    display: inline-block;
+    position: relative;
+  }
+  
+  /* Style for the dropdown content */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    padding: 10px;
+    z-index: 1;
+  }
+  
+  /* Show the dropdown content when the dropdown container is hovered */
+  .dropdown-container:hover .dropdown-content {
+    display: block;
+  }
